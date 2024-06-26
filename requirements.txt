@@ -3,4 +3,4 @@ Werkzeug==2.3.7
 flask==2.3.3
 pillow==10.3.0
 opencv-python==4.10.0.84
-yolo_detection
+ultralytics==8.2.42
